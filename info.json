@@ -1,11 +1,11 @@
 {
   "name": "InserterUpgradeKit",
   "title": "Inserter Upgrade Kit",
-  "version": "0.14.0",
+  "version": "0.16.0",
   "author": "GeekinaCave",
   "contact": "jarelton85@gmail.com",
   "homepage": "https://github.com/GeekinaCave/InserterUpgradeKit",
   "description": "This is a simple recipe addon for using green science without the wonkiness of need automation 2 for it.",
-  "factorio_version": "0.14",
-  "dependencies": [ "base >= 0.14" ]
+  "factorio_version": "0.16",
+  "dependencies": [ "base >= 0.16" ]
 }
